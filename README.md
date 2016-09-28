@@ -14,9 +14,10 @@ Completed:
 * [] Required: The `--logfile` argument outputs all logs to the file specified instead of stdout
 
 Walkthrough Gif:
-[Add walkthrough.gif to the project root]
 
 ![Video Walkthrough](walkthrough.gif)
+
+![Video Walkthrough](javascripting.tiff)
 
 Note: to embed the gif file, just check your gif file into your repo and update the name of the file above.
 
