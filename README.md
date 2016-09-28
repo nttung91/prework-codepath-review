@@ -19,6 +19,8 @@ Walkthrough Gif:
 
 ![Video Walkthrough](javascripting.tiff)
 
+![Video Walkthrough](learnyounode.tiff)
+
 Note: to embed the gif file, just check your gif file into your repo and update the name of the file above.
 
 ## Starting the Server
