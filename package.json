@@ -1,0 +1,15 @@
+{
+  "name": "proxy-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js --log=text.log"
+  },
+  "author": "Tung Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.75.0",
+    "yargs": "^3.32.0"
+  }
+}
